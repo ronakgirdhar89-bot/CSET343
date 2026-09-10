@@ -1,0 +1,40 @@
+Python
+
+pycache/ .py[cod] $py.class
+
+Virtual environments
+
+venv/ .venv/ env/ ENV/
+
+Jupyter
+
+.ipynb_checkpoints/
+
+Python packaging
+
+*.egg-info/ dist/ build/
+
+Environment files / secrets
+
+.env .env.* !.env.example
+
+Local data files
+
+.csv .xlsx .xls .zip
+
+Logs
+
+*.log
+
+OS files
+
+.DS_Store Thumbs.db desktop.ini
+
+VS Code
+
+.vscode/
+
+Temporary files
+
+.tmp .temp .swp .swo
+venv/

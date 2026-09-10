@@ -1,0 +1,10 @@
+ucimlrepo
+wfdb
+pydicom
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+scikit-learn
+requests
